@@ -36,7 +36,7 @@ I love turning ideas into real-world applications through code.
 <!-- techstacks -->
 ## 🛠 Techstack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,figma,tailwind,bootstrap&perline=7" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,figma,tailwind,bootstrap,aws,docker,nextjs,typescript,&perline=7" />
 </p>
 
 <!-- github stats -->
