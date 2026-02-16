@@ -88,11 +88,16 @@ I love turning ideas into real-world applications through code.
   </a>
 </p>
 
-<!-- activity -->
+<!-- activity  pacman game -->
 ## 📈 Activity
-<!-- pacman -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/afrilaknaf/afrilaknaf/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/afrilaknaf/afrilaknaf/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/afrilaknaf/afrilaknaf/output/pacman-contribution-graph.svg">
 </picture>
+
+<!-- footer -->
+<img 
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0f4c81,100:1e90ff&height=100&section=footer&text=Thanks%20for%20Visiting!&fontSize=25&fontColor=ffffff" 
+  width="100%" 
+/>
