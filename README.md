@@ -89,3 +89,10 @@ I love turning ideas into real-world applications through code.
 </p>
 
 <!-- activity -->
+## 📈 Activity
+<!-- pacman -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/afrilaknaf/afrilaknaf/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/afrilaknaf/afrilaknaf/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/afrilaknaf/afrilaknaf/output/pacman-contribution-graph.svg">
+</picture>
